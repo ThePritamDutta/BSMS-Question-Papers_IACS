@@ -19,16 +19,16 @@ To access a detailed view of the question papers, navigate to the specific semes
 - [Semester 4](Sem4)
 
 **Year 3(UG III):**
-- [Semester 5](sem5)
-- [Semester 6](sem6)
+- [Semester 5](Sem5)
+- Semester 6 (not yet available)
 
 **Year 4(UG IV/PG I):**
-- [Semester 7](sem7)
-- [Semester 8](sem8)
+- Semester 7 (not yet available)
+- Semester 8 (not yet available)
 
 **Year 5(UG V/PG II):**
-- [Semester 9](sem9)
-- [Semester 10](sem10)
+- Semester 9 (not yet available)
+- Semester 10 (not yet available)
 
 ---
 ## Uploading Question Papers with Git
@@ -53,7 +53,8 @@ git commit -m "Added question papers"
 ```
 **Push Changes to Your Repository:**
 
-```bash# Push the committed changes to your forked repository.
+```bash
+# Push the committed changes to your forked repository.
 git push
 ```
 **Create a Pull Request:**

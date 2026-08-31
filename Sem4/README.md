@@ -1,1 +1,6 @@
-# BSMS Sem 5/PG Sem 1 Questions
+# BSMS Sem 4/PG Sem 1 Questions
+
+- [SBS](SBS)
+- [SCS](SCS)
+- [SMCS](SMCS)
+- [SPS](SPS)
