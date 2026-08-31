@@ -66,11 +66,6 @@ git push
 **Thank you for visiting the BSMS Question Papers IACS repository. We hope you find these resources valuable. If you have any questions, concerns, or would like to contribute further, please don't hesitate to reach out.**
 
 ---
+<!-- Authors -->
 ## Contributors
-
-Thanks to everyone who has contributed question papers or fixes to this repository:
-
-- [pratyaynotfound](https://github.com/pratyaynotfound)
-- [pranjalsg](https://github.com/pranjalsg)
-- [as-ghosh-20](https://github.com/as-ghosh-20)
-- [ThePritamDutta](https://github.com/ThePritamDutta)
+<a href="https://github.com/pratyaynotfound/BSMS-Question-Papers_IACS/graphs/contributors"><img src="https://contrib.rocks/image?repo=pratyaynotfound/BSMS-Question-Papers_IACS"></a>
