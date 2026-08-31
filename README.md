@@ -64,3 +64,13 @@ git push
 4. Click `Create Pull Request` to submit your changes for review.
 
 **Thank you for visiting the BSMS Question Papers IACS repository. We hope you find these resources valuable. If you have any questions, concerns, or would like to contribute further, please don't hesitate to reach out.**
+
+---
+## Contributors
+
+Thanks to everyone who has contributed question papers or fixes to this repository:
+
+- [pratyaynotfound](https://github.com/pratyaynotfound)
+- [pranjalsg](https://github.com/pranjalsg)
+- [as-ghosh-20](https://github.com/as-ghosh-20)
+- [ThePritamDutta](https://github.com/ThePritamDutta)
